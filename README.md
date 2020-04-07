@@ -18,7 +18,7 @@ utilizando este y otros ambientes.
 
 1. Desplegar un contrato inteligente sobre una red basica de Fabric
     * Utilizando el ejemplo de Marble (intercambio de esferas) especificado en la distribucion 
-    basica de Fabric bajo el archivo [marble_chaincode.js].
+    basica de Fabric bajo el archivo [marble_chaincode.js](https://youtu.be/cpxzewMSQRo).
     * Desplegamos el contrato inteligente sobre la red Basica.
     * Probar el funcionamiento.
     * Monitorear transacciones en CouchBD.
@@ -27,7 +27,7 @@ utilizando este y otros ambientes.
 2. Entender el desarrollo de contratos inteligentes utilizando NodeJS
     * Entender contrato marble_chaincode.js
     * Desarrollar lógica negocios y desarrollar en NodeJS 
-    * Utilizar clases del API Fabric. 
+    * Utilizar clases del [API Fabric](https://hyperledger.github.io/fabric-sdk-node/master/module-fabric-network.html). 
     * Realizar modificaciones al contrato marble_chaincode.js
     * Escribir un contrato para una lógica de negocio diferente.
 
